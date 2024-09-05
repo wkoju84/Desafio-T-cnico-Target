@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+L	java:S106"+Replace this use of System.out by a logger.(Šßı¸ûÿÿÿÿ8¥æş˜œ2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(˜ğ™•ûÿÿÿÿ8¥æş˜œ2
+L	java:S106"+Replace this use of System.out by a logger.(˜ğ™•ûÿÿÿÿ8¥æş˜œ2
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‹¬®£8¥æş˜œ2
+G	java:S106"+Replace this use of System.out by a logger.(‹¬®£8¥æş˜œ2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ß†’áûÿÿÿÿ8¥æş˜œ2
+L	java:S106"+Replace this use of System.out by a logger.(ß†’áûÿÿÿÿ8¥æş˜œ2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(£«´ıÿÿÿÿ8¥æş˜œ2
+L	java:S106"+Replace this use of System.out by a logger.(£«´ıÿÿÿÿ8¥æş˜œ2
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(›À›’8¥æş˜œ2
+G	java:S106"+Replace this use of System.out by a logger.(›À›’8¥æş˜œ2
